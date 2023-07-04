@@ -1,1 +1,3 @@
-import from django path
+from django.urls import path
+
+urlpatterns =[]
